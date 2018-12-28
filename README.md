@@ -28,7 +28,7 @@ Festival Speech Synthesis System: 2.4 or higher
   Setup ATE
   Clone the repository
 
-    $ git clone https://github.com/QuarkLabs/audible-text-editor.git
+    $ git clone https://github.com/QuarkLabs/audible-text-editor-master.git
 
   Install Angular-cli
 
